@@ -1,0 +1,5 @@
+.campground-image {
+  width: 100%;
+  height: 200px; /* Atur tinggi gambar sesuai keinginan Anda */
+  object-fit: cover;
+}

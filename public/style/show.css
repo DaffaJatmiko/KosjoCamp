@@ -1,0 +1,11 @@
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.col-6 {
+  flex: 0 0 50%; /* Setiap kolom akan mengambil 50% lebar container */
+  max-width: 50%; /* Setiap kolom akan memiliki lebar maksimum 50% */
+  padding-right: 15px; /* Spasi kanan antara kolom */
+  padding-left: 15px; /* Spasi kiri antara kolom */
+}
